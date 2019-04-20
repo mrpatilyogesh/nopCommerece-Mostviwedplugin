@@ -1,0 +1,9 @@
+﻿Group: Misc
+FriendlyName: Most Viewd Product
+SystemName:  MostViewedProduct
+Version: 1.00
+SupportedVersions: 3.90
+Author:ForeFront Infotech
+DisplayOrder: 1
+FileName: Nop.Plugin.Misc.HelloWorldPlugin.dll
+Description:Still it Working....
